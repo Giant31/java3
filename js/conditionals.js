@@ -14,8 +14,7 @@ if (firstNum > secondNum){
 
 var secondQuestion = prompt("enter number")
 var thirdQustion = prompt ("enter word")
- console.log(secondQuestion);
- console.log(thirdQustion);
+ 
   if(secondQuestion.length > thirdQustion.length){
       console.log("second question is greater", secondQuestion)
 
